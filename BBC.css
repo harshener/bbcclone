@@ -1,0 +1,445 @@
+.square
+            {
+                color:white;
+                width: 25.25px;
+                background-color:#1D1D1B;
+                height:24.5px;
+                margin:  0px 2px;
+                font-size: 25.5px;
+                float:left;
+                font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+                text-align: center;
+                line-height: 1;
+                
+            }
+            .space1
+            {
+                margin-left: 128px;
+            }
+            .vl 
+            {
+                width:1px;
+                height: 40;
+                background-color:#000;
+                position:absolute;
+                top:0;
+                bottom:0;
+                opacity: 0.2;
+            }
+            #one
+            {
+                left:236px;
+            }
+            #two
+            {
+                left:409;
+            }
+            #three
+            {
+                left:485;
+            }
+            #four
+            {
+                left:558;
+            }
+            #five
+            {
+                left:631;
+            }
+            #six
+            {
+                left:698;
+            }
+            #seven
+            {
+                left:788;
+            }
+            #eight
+            {
+                left:864;
+            }
+            #nine
+            {
+                left:944;
+            }
+            #ten
+            {
+                left:1028;
+            }
+            #eleven
+            {
+                left:1167;
+            }
+            #image
+            {
+                width:20;
+                height:18;
+                position: absolute;
+                top: 11;
+                left:250;
+            }
+            .menu
+            {
+                font-family: sans-serif;
+                position: absolute;
+                top: 0;
+                font-weight: bold;
+                font-size:13;
+            }
+            #signin
+            {
+                left: 278;
+            }
+            #home
+            {
+                left:428;
+            }
+            #news
+            {
+                left:504;
+            }
+            #sport
+            {
+                left:578;
+            }
+            #reel
+            {
+                left:651;
+            }
+            #worklife
+            {
+                left:718;
+            }
+            #travel
+            {
+                left:809;
+            }
+            #future
+            {
+                left:883;
+            }
+            #culture
+            {
+                left:962;
+            }
+            #more
+            {
+                left:1047;
+            }
+            #arrow
+            {
+                width:5.8;
+                height:5.8;
+                position:absolute;
+                top: 20;
+                left: 1148;
+            }
+            #search
+            {
+                height: 24;
+                width:146;
+                position: absolute;
+                left: 1183;
+                top:8;
+                background-color: #E4E4E4;
+                border: none;
+            }
+            ::placeholder
+            {
+                font-weight: bold;
+                color:black;
+                font-family: sans-serif;
+            }
+            #button
+            {
+                height:24;
+                width: 31;
+                position: absolute;
+                left: 1329;
+                top:8;
+                background-color: #E4E4E4;
+                border: none;
+
+            }
+            #finder
+            {
+                width:16;
+                height:16;
+                position: absolute;
+                left: 1337;
+                top:12;
+                
+                
+            }
+            #first-section
+            {
+                font-family: Arial;
+                height:91;
+                width:100%;
+                font-weight:400;
+                position:absolute;
+                top:40;
+                margin: 0;
+                padding: 0;
+                background-color: #BB1919;
+                font-size: 15;
+                color:white;
+            }
+            .vl1
+            {
+                width:1px;
+                height: 16;
+                background-color:#db6767;
+                position:absolute;
+                top: 63;
+                opacity: 0.5;
+            }
+            #l11
+            {
+                left:175;
+            }
+            #l12
+            {
+                left: 275;
+            }
+            #l13
+            {
+                left:332;
+            }
+            #l14
+            {
+                left:392;
+            }
+            #l15
+            {
+                left:442;
+            }
+            #l16
+            {
+                left:486;
+            }
+            #l17
+            {
+                left: 568;
+            }
+            #l18
+            {
+                left: 618;
+            }
+            #l19
+            {
+                left: 693;
+            }
+            #l110
+            {
+                left: 761;
+            }
+            #l111
+            {
+                left: 925;
+            }
+            #l112
+            {
+                left: 995;
+            }
+            #l113
+            {
+                left: 1122;
+            }
+            #l114
+            {
+                left: 1217;
+            }
+            #NEWS1
+            {
+                
+                position: absolute;
+                left:126;
+                line-height: 10;
+                font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+                font-size:40;
+                top: -212;
+                letter-spacing: 1.5;  
+            }
+            #home1
+            {
+                position: absolute;
+                left:126;
+                top: 48;
+            }
+            #corona
+            {
+                position: absolute;
+                left:187;
+                top: 48;                
+            }
+            #video
+            {
+                position: absolute;
+                left: 286;
+                top: 48;
+            }
+            #world
+            {
+                position:absolute;
+                left:345;
+                top: 48;
+            }
+            #asia
+            {
+                position:absolute;
+                left:404;
+                top: 48;
+            }
+            #uk
+            {
+                position:absolute;
+                left:455;
+                top: 48;
+            }
+            #business
+            {
+                position: absolute;
+                left:498;
+                top:48;
+            }
+            #tech
+            {
+                position: absolute;
+                left: 579;
+                top: 48;
+            }
+            #science
+            {
+                position: absolute;
+                left: 631;
+                top: 48;
+            }
+            #stories
+            {
+                position: absolute;
+                left: 705;
+                top: 48;
+            }
+            #ent
+            {
+                position: absolute;
+                left: 773;
+                top: 48;
+            }
+            #health
+            {
+                position: absolute;
+                left: 938;
+                top: 48;
+            }
+            #world1
+            {
+                position: absolute;
+                left: 1008;
+                top: 48;
+            }
+            #in
+            {
+                position: absolute;
+                left: 1135;
+                top: 48;
+            }
+            #more1
+            {
+                position: absolute;
+                left: 1226;
+                top: 48;
+            }
+            #edit
+            {
+                position: absolute;
+                left: 1260;
+                top: 65;
+            }
+            #trump
+            {
+                position: absolute;
+                top: 145;
+                height: 270;
+                width: 482;
+                left: 385;
+            }
+            #first
+            {
+                text-align: justify;
+                font-size: 27;
+                color: grey;
+                position:absolute;
+                top: 125;
+                left:136;
+                font-family: "Arial";
+                font-weight: 700;  
+            }
+            
+            a.link1
+            {
+                
+                font-size: 27;
+                color: #777b7c;
+                position:absolute;
+                top: 155;
+                left:136;
+                font-family: "Arial";
+                font-weight: 700;
+                text-decoration: none;
+            }
+           a.link1:hover
+            {
+                color: #1380a1;
+                text-decoration: underline;
+            }
+            #link2
+            {
+                position:absolute;
+                left:136;
+                top: 290;
+                font-family: "Arial";
+                text-decoration: none;
+                color: #777b7c;
+                font-weight: 500;
+            }
+            #materials
+            {
+                font-size:109%;
+                position: absolute;
+                left:136;
+                top:370;
+                color:#777b7c;
+            }
+            #time1
+            {
+                font-family: "Arial";
+                color:#777b7c;
+                position: absolute;
+                left: 156;
+                font-size: 13;
+                top:358;
+            }
+            #verline
+            {
+                position: absolute;
+                left:176;
+                top:368;
+                width:1;
+                height:18;
+                background-color:#777b7c;
+                opacity: 0.3;
+            }
+            #wq
+            {
+                font-family: "Arial";
+                position: absolute;
+                left:183;
+                top:358; 
+                font-size: 13;
+            }
+             a
+        {
+        color : black;
+        }
